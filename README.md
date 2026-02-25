@@ -3,7 +3,11 @@ Enterprise-level secure hospital network design with VLAN segmentation, routing,
 # 🏥 Secure Hospital Network Architecture
 
 ## 📌 Overview
-Designed a scalable and secure hospital network infrastructure supporting ICU, OPD, Wards, Administration, and Reception environments.
+This project presents the design and implementation of a scalable, secure, and high-availability hospital network infrastructure supporting critical healthcare environments, including the ICU, OPD (Outpatient Department), Wards, Administration, IT Hub, and Reception.
+
+The architecture follows a hierarchical core–distribution–access model to ensure reliability, fault tolerance, and optimized traffic flow. Special emphasis was placed on protecting sensitive patient health information (PHI), ensuring regulatory compliance, and minimizing operational downtime in life-critical environments.
+
+The design integrates logical segmentation, routing optimization, secure authentication mechanisms, and Quality of Service (QoS) policies to maintain performance and security across departments.
 
 This project focuses on:
 - VLAN segmentation
